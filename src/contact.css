@@ -19,7 +19,7 @@ header{
     text-align: center;
     width: 75%;
     left: 12%;
-    top: 2rem;
+    top: 1rem;
 }
 header h1{
     font-size: 50px;
@@ -148,7 +148,7 @@ section i{
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         grid-gap: 0;
-        margin-top: 53vh;
+        margin-top: 43vh;
         margin-left: 5vh;
     }
     .content section{
