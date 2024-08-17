@@ -148,7 +148,7 @@ nav .navlinks li a{
 .hero-text .social i{
     color: #e5e5e5;
     font-size: 28px;
-    margin-right: 10px;
+    margin-right: 5px;
     transition: 0.5s;
 }
 .hero-text .social i:hover{
@@ -183,13 +183,13 @@ nav .navlinks li a{
     }
     nav .navlinks{
         position: absolute;
-        top:0px;
-        right:-60%;
-        bottom: 0;
-        width: 60%;
-        height: fixed;
+        top:11%;
+        right:90%;
+        bottom: 100;
+        width: 40%;
+        height: 5;
         background-color: #222;
-        z-index: 3;
+        z-index: 1;
         box-shadow: 5px 13px 30px rgba(0,0,0,0.1);
         transition: 0.5s;
         padding: 25px 0px;
@@ -199,7 +199,7 @@ nav .navlinks li a{
     }
     nav .navlinks li a{
         display: block;
-        margin-bottom: 15px;
+        margin-bottom: 35px;
         text-align: center;
     }
     nav .navlinks.open{
